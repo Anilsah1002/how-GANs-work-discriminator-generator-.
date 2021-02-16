@@ -1,0 +1,2 @@
+# how-GANs-work-discriminator-generator-.
+Inputs to a Pre-trained GAN Goal You are going to begin playing with generators and see how they fit into machine learning and generative adversarial networks (GANs). You will get to run a pre-trained GAN, mess with the inputs, and check out the wacky outputs.  In the teaser, you saw some cool outputs. How does this all work? You will dive a little deeper in this notebook and see!
